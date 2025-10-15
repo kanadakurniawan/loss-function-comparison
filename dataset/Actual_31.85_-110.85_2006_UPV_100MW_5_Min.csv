@@ -1,4 +1,4 @@
-LocalTime,Power(MW)
+datetime,Power(MW)
 1/1/2006 0:00,0.0
 1/1/2006 0:05,0.0
 1/1/2006 0:10,0.0
